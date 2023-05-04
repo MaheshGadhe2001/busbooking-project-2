@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center">The Point Of Sale Java Code is the location where a consumer makes a payment for goods or services, as well as where sales taxes may be due
+<p align="center">The Busbooking system Java Code is the location where user book the seat for itself.Any user can handle this application as it is easy
     <br> 
 </p>
 
